@@ -1,0 +1,5 @@
+This Program pack is uploaded by Deathchanter.
+It contains versions of programs written by our ROBORAVE team--Night's Edge.
+
+2014/4/3 Added Motor Test, simply you can use the program to test if your motor can turn correctly.
+2014/4/3 BYX added the Five Light Sensor program. But it is really really basic and need to be adjusted
